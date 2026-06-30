@@ -10,8 +10,8 @@ I build scalable full-stack applications, design smooth cross-platform mobile ex
 
 - **🔭 Currently working on:** Launching an app project on the Google Play Console and building a unique indie platformer game.
 - **🌱 Currently learning:** Exploring advanced game mechanics, systems design, and specialized backend scaling.
-- **💬 Ask me about:** Full-stack architecture, building MVPs, Flutter app deployment, or why the 2012 Mercedes-Benz C63 AMG V8 is an absolute masterpiece.
-- **⚡ Fun fact:** When I'm not pushing code to production, I'm probably roaming Night City in Cyberpunk, queuing up in Valorant, or playing Fortnite.
+- **💬 Ask me about:** Full-stack architecture, building MVPs, Flutter app deployment.
+- **⚡ Fun fact:** When I'm not pushing code to production, I'm probably writting artcles on cars on my linkedin.
 
 ---
 
@@ -21,7 +21,7 @@ I build scalable full-stack applications, design smooth cross-platform mobile ex
 | :--- | :--- |
 | **Frontend & Mobile** | React.js, Flutter, HTML5, CSS3, JavaScript, TypeScript |
 | **Backend & Databases** | Node.js, Python, PostgreSQL |
-| **Tools & Cloud** | Git, GitHub, Google Play Console, Gemini Code Assist |
+| **Tools & Cloud** | Git, GitHub, Google Play Console, Gemini API |
 
 ---
 
