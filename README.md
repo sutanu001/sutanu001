@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Sutanu! 👋
 
-<!--
-**sutanu001/sutanu001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack & Cross-Platform Developer
 
-Here are some ideas to get you started:
+I build scalable full-stack applications, design smooth cross-platform mobile experiences, and develop indie games. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ What I'm Up To
+
+- **🔭 Currently working on:** Launching an app project on the Google Play Console and building a unique indie platformer game.
+- **🌱 Currently learning:** Exploring advanced game mechanics, systems design, and specialized backend scaling.
+- **💬 Ask me about:** Full-stack architecture, building MVPs, Flutter app deployment, or why the 2012 Mercedes-Benz C63 AMG V8 is an absolute masterpiece.
+- **⚡ Fun fact:** When I'm not pushing code to production, I'm probably roaming Night City in Cyberpunk, queuing up in Valorant, or playing Fortnite.
+
+---
+
+### 💻 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend & Mobile** | React.js, Flutter, HTML5, CSS3, JavaScript, TypeScript |
+| **Backend & Databases** | Node.js, Python, PostgreSQL |
+| **Tools & Cloud** | Git, GitHub, Google Play Console, Gemini Code Assist |
+
+---
+
+### 📬 Let's Connect!
+
+- **💼 LinkedIn:** https://in.linkedin.com/in/sutanu-ballav-2bbb2527a
+- **📧 Email:** sutanuballav001@gmail.com
+
+---
+
+<p align="center">
+  <i>"Code is poetry, but debugging is an absolute thriller."</i>
+</p>
