@@ -19,7 +19,7 @@ I build scalable full-stack applications, design smooth cross-platform mobile ex
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend & Mobile** | React.js, Flutter, HTML5, CSS3, JavaScript, TypeScript |
+| **Frontend & Mobile** | React.js, Flutter, HTML5, CSS3, JavaScript, TypeScript, next.js |
 | **Backend & Databases** | Node.js, Python, PostgreSQL |
 | **Tools & Cloud** | Git, GitHub, Google Play Console, Gemini API |
 
